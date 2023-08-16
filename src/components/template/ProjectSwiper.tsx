@@ -20,7 +20,10 @@ export const ProjectSwiper = () => {
 
 
   return (
-    <Carousel>
+    <Carousel
+      autoPlay
+      infiniteLoop
+    >
       <a href="https://www.voxeldigital.ca/" target="_blank" rel="noreferrer">
         <Image src={VoxelDigitalTile} alt="Voxel Digital Website" />
         <div className="legend">
