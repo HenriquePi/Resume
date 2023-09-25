@@ -11,6 +11,7 @@ import LinkIcon from "@/assets/icons/up-right-from-square-solid.svg";
 import VoxelDigitalTile from "@/assets/VoxelDigitalTile.webp";
 import UnlystTile from "@/assets/UnlystTile.webp";
 import RiskTile from "@/assets/RiskTile.webp";
+import CryptoTracker from "@/assets/CryptoTile.webp";
 
 import "react-responsive-carousel/lib/styles/carousel.min.css"; 
 import Image from 'next/image';
@@ -39,9 +40,16 @@ export const ProjectSwiper = () => {
         </div>
       </a>
       <a href="https://risk-vis-demo.voxeldigital.ca/" target="_blank" rel="noreferrer">
-        <Image src={RiskTile} alt="Unlyst Website" />
+        <Image src={RiskTile} alt="Risk Data Visualization" />
         <div className="legend">
           <h3>Risk Visualization Demo</h3>
+          <Image src={LinkIcon} alt="Link Icon" height={35} width={35}/>
+        </div>
+      </a>
+      <a href="https://crypto-tracker.voxeldigital.ca/" target="_blank" rel="noreferrer">
+        <Image src={CryptoTracker} alt="Crypto Currency Tracker" />
+        <div className="legend">
+          <h3>Crypto Currency Tracker Demo</h3>
           <Image src={LinkIcon} alt="Link Icon" height={35} width={35}/>
         </div>
       </a>
