@@ -30,7 +30,7 @@ export const Work = () => {
               </ul>
             </div>
           }
-          dateRange="November 2021 - July 2023"
+          dateRange="November 2021 - Present"
         />
         <WorkCard
           cardTitle="Web Developer"
