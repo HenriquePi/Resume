@@ -30,7 +30,7 @@ export const Skills = () => {
               </div>
               <span/>
               <div>
-              3
+              4
               </div>
               <span>years</span>
             </div>
@@ -52,7 +52,7 @@ export const Skills = () => {
               <div className={styles.years}>
                 <span/>
                 <div>
-                3
+                4
                 </div>
                 <span>years</span>
               </div>
@@ -74,7 +74,7 @@ export const Skills = () => {
               </div>
               <span/>
               <div>
-              3
+              4
               </div>
               <span>years</span>
             </div>
@@ -90,7 +90,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                4
               </div>
             }
           />
@@ -99,7 +99,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                4
               </div>
             }
           />
@@ -108,7 +108,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                4
               </div>
             }
           />
@@ -117,7 +117,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                4
               </div>
             }
           />
@@ -129,7 +129,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                4
               </div>
             }
           />
@@ -138,7 +138,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                1
+                2
               </div>
             }
           />
@@ -167,7 +167,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                4
               </div>
             }
           />
@@ -176,7 +176,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                2
               </div>
             }
           />
@@ -194,7 +194,7 @@ export const Skills = () => {
             isExpanded
             description={
               <div className={styles.years}>
-                3
+                2
               </div>
             }
           />
